@@ -1,35 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Privacy Policy</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Balloon Run Game</title>
 </head>
 <body>
 
-<h1>Privacy Policy</h1>
-<p>Last updated: April 2026</p>
+<main>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> April 2026</p>
 
-<p>This app ("Balloon Run Game") does not collect personal information directly.</p>
+  <p>This app ("Balloon Run Game") does not collect personal information directly.</p>
 
-<p>However, we use third-party services that may collect information:</p>
+  <p>However, we use third-party services that may collect information:</p>
 
-<h3>Google AdMob</h3>
-<p>AdMob may collect:</p>
-<ul>
-  <li>Device information</li>
-  <li>Advertising ID</li>
-  <li>Usage data</li>
-</ul>
+  <section>
+    <h2>Google AdMob</h2>
+    <p>AdMob may collect:</p>
+    <ul>
+      <li>Device information</li>
+      <li>Advertising ID</li>
+      <li>Usage data</li>
+    </ul>
+    <p>This data is used to show ads and improve services.</p>
+    <p>Learn more: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
+  </section>
 
-<p>This data is used to show ads and improve services.</p>
+  <section>
+    <h2>Children's Information</h2>
+    <p>This app is not directed to children under 13.</p>
+  </section>
 
-<p>Learn more:</p>
-<p>https://policies.google.com/privacy</p>
-
-<h3>Children's Information</h3>
-<p>This app is not directed to children under 13.</p>
-
-<h3>Contact Us</h3>
-<p>Email: choton88@gmail.com</p>
+  <section>
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:choton88@gmail.com">choton88@gmail.com</a></p>
+  </section>
+</main>
 
 </body>
 </html>
